@@ -102,12 +102,11 @@ I build full-stack web applications and AI-powered automation systems, focusing 
 ---
 
 ## ⚡ My Philosophy:<br> 
-🔹 Obsessed with building systems that scale
 
+🔹 Obsessed with building systems that scale
 🔹 Focus on execution over ideas
 🔹 Build fast, learn faster, iterate endlessly
   
-
 ---
 
 ## 📬 Let's Connect:
@@ -122,6 +121,5 @@ I build full-stack web applications and AI-powered automation systems, focusing 
 
 ### 💭 "Build fast. Scale smart. Automate everything."
 
-**Made with ❤️ by Neeraj Singh**
 
 </div>
