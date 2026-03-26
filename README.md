@@ -115,5 +115,6 @@ I build full-stack web applications and AI-powered automation systems, focusing 
 
 ### 💭 "Build fast. Scale smart. Automate everything."
 
+**Made with ❤️ by Neeraj Singh**
 
 </div>
