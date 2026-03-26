@@ -1,16 +1,22 @@
-
+# Hey, I'm Neeraj Singh 👋
+ 
+```
+Full-stack developer | AI enthusiast | Building scalable systems
+```
+ 
+---
 ---
 
 ## 🚀 What I Do
 
 I build full-stack web applications and AI-powered automation systems, focusing on clean code and scalable architecture.
 
-### Currently Building:
+## 🔭 Currently Building:
 🔹 Full-stack web applications (React, Node.js, Next.js)  
 🔹 AI-powered automation & LLM integrations  
 🔹 Cloud-native & scalable systems  
 
-### Open to Collaborate On:
+## 🤝 Open to Collaborate On:
 🔹 SaaS & AI tools & automation startups  
 🔹 Full-stack web projects (productivity, dev tools)  
 🔹 Open-source tools & scalable systems  
@@ -95,11 +101,11 @@ I build full-stack web applications and AI-powered automation systems, focusing 
 
 ---
 
-## 🎯 Fun Facts:
-
-🔹 Started coding to build websites, now obsessed with full-stack development  
-🔹 Love automating everything possible  
-🔹 Coffee-driven code ☕  
+## ⚡ My Philosophy<br>: 
+🔹 Obsessed with building systems that scale
+🔹 Focus on execution over ideas  
+🔹 Build fast, learn faster, iterate endlessly
+  
 
 ---
 
