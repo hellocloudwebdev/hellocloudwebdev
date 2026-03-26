@@ -1,24 +1,127 @@
-# 💫 About Me:
-🚀 About Me<br>Full-stack developer obsessed with building AI-powered automation systems and scalable digital products. I turn ideas into production-ready solutions.<br>🔭 Building<br>→ Full-stack web applications (React, Node.js, databases)<br>→ AI-powered automation systems (n8n, LLM agents)<br>→ Scalable digital products & SaaS<br>🤝 Open to collaborate on<br>→ SaaS, AI tools & automation startups<br>→ Full-stack web projects (productivity, dev tools)<br>→ AI agents & LLM integrations<br>→ Open-source tools & scalable systems<br>🔥 Currently mastering<br>→ AI agents & LLM workflows<br>→ Cloud & DevOps (AWS, Azure, Docker, CI/CD)<br>→ Full-stack architecture & system design<br>💬 Ask me about<br>→ Building full-stack products from concept to deployment<br>→ Automation pipelines & workflow design<br>→ APIs, backends & database architecture<br>→ Turning ideas into products that scale<br>⚡ My Philosophy<br>→ Obsessed with building systems that scale. If it can be automated, I'm building it. ⚡
+# Hey, I'm Neeraj Singh 👋
 
+```
+Full-stack developer | AI enthusiast | Biotech student | Building scalable systems
+```
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hellocloud.webdev@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=flat&logo=opengl) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=flat&logo=pnpm&logoColor=f69220) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=flat&logo=playwright&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=flat&logo=Puppeteer&logoSize=auto&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Hellocloudwebdev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Hellocloudwebdev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hellocloudwebdev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🚀 What I Do
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Hellocloudwebdev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+I bridge the gap between **biotechnology** and **technology** by building full-stack web applications and AI-powered automation systems. Currently pursuing BSc in Biotechnology at Amity, Madhya Pradesh while obsessing over clean code and scalable architecture.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### Currently Building:
+- 🔹 Full-stack web applications (React, Node.js, Next.js)
+- 🔹 AI-powered automation & LLM integrations
+- 🔹 Biotech-related digital solutions & tools
+- 🔹 Cloud-native & scalable systems
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Hellocloudwebdev&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### Open to Collaborate On:
+- SaaS & AI tools for biotech/healthcare
+- Full-stack web projects (productivity, dev tools)
+- Open-source tools & scalable systems
+- Automation pipelines & workflow design
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## 🔥 Currently Learning:
+- Advanced AI agents & LLM workflows
+- Cloud & DevOps (AWS, Docker, CI/CD)
+- System design & scalable architecture
+- Web3 & blockchain integration
+
+---
+
+## 💻 Tech Stack:
+
+### Languages:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+### Frontend & Frameworks:
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+
+### Backend & Databases:
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### Cloud & DevOps:
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+### Tools & Platforms:
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+---
+
+## 📈 GitHub Stats:
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Hellocloudwebdev&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hellocloudwebdev&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Hellocloudwebdev&color=blueviolet&style=flat-square)](https://github.com/Hellocloudwebdev)
+
+</div>
+
+---
+
+## 💡 Quick Highlights:
+
+- 🎓 **Education**: BSc Biotechnology @ Amity, Madhya Pradesh
+- 💻 **Passion**: Building bridges between biotech & web technologies
+- 🌱 **Growth**: Constantly learning new technologies & best practices
+- 🤝 **Collaboration**: Always open to interesting projects & partnerships
+- ⚡ **Philosophy**: If it can be automated, I'm building it
+
+---
+
+## 📚 What I Love:
+
+- Building products that solve real problems
+- Writing clean, maintainable code
+- Exploring the intersection of biotech & tech
+- Open-source contributions
+- Learning new technologies & frameworks
+
+---
+
+## 🎯 Fun Facts:
+
+- Started coding to build websites, now obsessed with full-stack development
+- Combining biotechnology studies with web development expertise
+- Love automating everything possible
+- Coffee-driven code ☕
+
+---
+
+## 📬 Let's Connect:
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hellocloud.webdev@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+
+---
+
+<div align="center">
+
+### 💭 "Every line of code is a step towards building something amazing."
+
+**Made with ❤️ by Neeraj Singh**
+
+</div>
