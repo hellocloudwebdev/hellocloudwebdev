@@ -1,34 +1,28 @@
-# Hey, I'm Neeraj Singh 👋
-
-```
-Full-stack developer | AI enthusiast | Biotech student | Building scalable systems
-```
 
 ---
 
 ## 🚀 What I Do
 
-I bridge the gap between **biotechnology** and **technology** by building full-stack web applications and AI-powered automation systems. Currently pursuing BSc in Biotechnology at Amity, Madhya Pradesh while obsessing over clean code and scalable architecture.
+I build full-stack web applications and AI-powered automation systems, focusing on clean code and scalable architecture.
 
 ### Currently Building:
-🔹 Full-stack web applications (React, Node.js, Next.js)
-🔹 AI-powered automation & LLM integrations
-🔹 Biotech-related digital solutions & tools
-🔹 Cloud-native & scalable systems
+🔹 Full-stack web applications (React, Node.js, Next.js)  
+🔹 AI-powered automation & LLM integrations  
+🔹 Cloud-native & scalable systems  
 
 ### Open to Collaborate On:
-🔹 SaaS & AI tools for biotech/healthcare
-🔹 Full-stack web projects (productivity, dev tools)
-🔹 Open-source tools & scalable systems
-🔹 Automation pipelines & workflow design
+🔹 SaaS & AI tools & automation startups  
+🔹 Full-stack web projects (productivity, dev tools)  
+🔹 Open-source tools & scalable systems  
+🔹 Automation pipelines & workflow design  
 
 ---
 
 ## 🔥 Currently Learning:
-🔹 Advanced AI agents & LLM workflows
-🔹 Cloud & DevOps (AWS, Docker, CI/CD)
-🔹 System design & scalable architecture
-🔹 Web3 & blockchain integration
+🔹 Advanced AI agents & LLM workflows  
+🔹 Cloud & DevOps (AWS, Docker, CI/CD)  
+🔹 System design & scalable architecture  
+🔹 Web3 & blockchain integration  
 
 ---
 
@@ -81,35 +75,31 @@ I bridge the gap between **biotechnology** and **technology** by building full-s
 
 </div>
 
-> **💡 Tip:** Stats refresh periodically. For real-time data, visit your [GitHub profile](https://github.com/Hellocloudwebdev)
-
 ---
 
 ## 💡 Quick Highlights:
 
-- 💻 **Passion**: Turning ideas into scalable digital products
-- 🔥 **Growth**: Constantly learning new technologies & best practices
-- 🤝 **Collaboration**: Always open to interesting projects & partnerships
-- ⚡ **Philosophy**: If it can be automated, I'm building it
+🔹 💻 **Passion**: Turning ideas into scalable digital products  
+🔹 🔥 **Growth**: Constantly learning new technologies & best practices  
+🔹 🤝 **Collaboration**: Always open to interesting projects & partnerships  
+🔹 ⚡ **Philosophy**: If it can be automated, I'm building it  
 
 ---
 
 ## 📚 What I Love:
 
-- Building products that solve real problems
-- Writing clean, maintainable code
-- Exploring the intersection of biotech & tech
-- Open-source contributions
-- Learning new technologies & frameworks
+🔹 Building products that solve real problems  
+🔹 Writing clean, maintainable code  
+🔹 Open-source contributions  
+🔹 Learning new technologies & frameworks  
 
 ---
 
 ## 🎯 Fun Facts:
 
-- Started coding to build websites, now obsessed with full-stack development
-- Combining biotechnology studies with web development expertise
-- Love automating everything possible
-- Coffee-driven code ☕
+🔹 Started coding to build websites, now obsessed with full-stack development  
+🔹 Love automating everything possible  
+🔹 Coffee-driven code ☕  
 
 ---
 
@@ -123,8 +113,7 @@ I bridge the gap between **biotechnology** and **technology** by building full-s
 
 <div align="center">
 
-### 💭 "Every line of code is a step towards building something amazing."
+### 💭 "Build fast. Scale smart. Automate everything."
 
-**Made with ❤️ by Neeraj Singh**
 
 </div>
