@@ -101,8 +101,9 @@ I build full-stack web applications and AI-powered automation systems, focusing 
 
 ---
 
-## ⚡ My Philosophy<br>: 
+## ⚡ My Philosophy:<br> 
 🔹 Obsessed with building systems that scale
+
 🔹 Focus on execution over ideas
 🔹 Build fast, learn faster, iterate endlessly
   
