@@ -119,7 +119,6 @@ I build full-stack web applications and AI-powered automation systems, focusing 
 
 <div align="center">
 
-### 💭 "Build fast. Scale smart. Automate everything."
 
 
 </div>
