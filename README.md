@@ -5,7 +5,6 @@ Full-stack developer | AI enthusiast | Building scalable systems
 ```
  
 ---
----
 
 ## 🚀 What I Do
 
