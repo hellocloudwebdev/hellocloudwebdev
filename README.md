@@ -27,7 +27,7 @@ I build full-stack web applications and AI-powered automation systems, focusing 
 ## 🔥 Currently Learning:
 🔹 Advanced AI agents & LLM workflows  
 🔹 Cloud & DevOps (AWS, Docker, CI/CD)  
-🔹 System design & scalable architecture  
+🔹 Full-stack architecture & system design  
 🔹 Web3 & blockchain integration  
 
 ---
