@@ -21,7 +21,6 @@ I build full-stack web applications and AI-powered automation systems, focusing 
 🔹 Open-source tools & scalable systems  
 🔹 Automation pipelines & workflow design  
 
----
 
 ## 🔥 Currently Learning:
 🔹 Advanced AI agents & LLM workflows  
